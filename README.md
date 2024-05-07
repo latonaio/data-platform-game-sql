@@ -12,9 +12,14 @@ data-platform-game-sql には、sqlの設定ファイルとして、以下のフ
 
 * data-platform-game-sql-header-data.sql（データ連携基盤 ゲーム - ヘッダデータ）
 * data-platform-game-sql-header-doc-data.sql（データ連携基盤 ゲーム - ヘッダ文書データ）
-* data-platform-game-sql-campaign-data.sql（データ連携基盤 ゲーム - キャンペーンデータ）
 * data-platform-game-sql-event-data.sql（データ連携基盤 ゲーム - イベントデータ）
-* data-platform-game-sql-partner-data.sql（データ連携基盤 ゲーム - 取引先データ）
+* data-platform-game-sql-campaign-data.sql（データ連携基盤 ゲーム - キャンペーンデータ）
+* data-platform-game-sql-counter-data.sql（データ連携基盤 ゲーム - カウンタデータ）
+* data-platform-game-sql-like-data.sql（データ連携基盤 ゲーム - いいねデータ）
+* data-platform-game-sql-point-condition-element-data.sql（データ連携基盤 ゲーム - ポイント条件要素データ）
+* data-platform-game-sql-point-transaction-data.sql（データ連携基盤 ゲーム - ポイント取引データ）
+* data-platform-game-sql-questionnaire-data.sql（データ連携基盤 ゲーム - アンケートデータ）
+* data-platform-game-sql-partner-data.sql（データ連携基盤 ゲーム - パートナデータ）
 * data-platform-game-sql-address-data.sql（データ連携基盤 ゲーム - 住所データ）
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
